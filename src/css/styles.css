@@ -1,0 +1,34 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+@import url('./fonts.css');
+@import url('./variables.css');
+@import url('./reset.css');
+@import url('./base.css');
+
+/* header */
+@import url('./header.css');
+
+/* hero */
+@import url('./hero.css');
+
+/* How it works first */
+@import url('./how-it-works-first.css');
+
+/* How it works second */
+@import url('./how-it-works-second.css');
+
+/* Vegetables */
+@import url('./vegetables.css');
+
+/* We will call you */
+@import url('./we-will-call-you.css');
+
+/* footer */
+@import url('./footer.css');
+
+/* modal */
+@import url('./modal.css');
